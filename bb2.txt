@@ -1,0 +1,2 @@
+This is a new branch bb2.
+And this is also a txt for test.
